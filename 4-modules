@@ -1,0 +1,8 @@
+const sayHi = require("./2-utils");
+const { john, susan, peter } = require("./1-names");
+const data = require("./3-alternative-flavour");
+// require("./7-mind-grenade");
+// console.log(data);
+// sayHi(john);
+// sayHi(susan);
+// sayHi(peter);
